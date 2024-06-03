@@ -1,0 +1,9 @@
+INSERT INTO metadata (license_plate) VALUES ('BUS1');
+INSERT INTO metadata (license_plate) VALUES ('BUS2');
+INSERT INTO metadata (license_plate) VALUES ('BUS3');
+INSERT INTO metadata (license_plate) VALUES ('BUS4');
+INSERT INTO metadata (license_plate) VALUES ('BUS5');
+INSERT INTO metadata (license_plate) VALUES ('BUS6');
+INSERT INTO metadata (license_plate) VALUES ('BUS7');
+INSERT INTO metadata (license_plate) VALUES ('BUS8');
+INSERT INTO metadata (license_plate) VALUES ('BUS9');
