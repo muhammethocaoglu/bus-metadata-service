@@ -9,6 +9,6 @@ import lombok.*;
 @Setter
 @Builder
 public class MetadataDto {
-    private Long id;
+    private Integer id;
     private String licensePlate;
 }

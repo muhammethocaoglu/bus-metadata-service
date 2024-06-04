@@ -23,7 +23,7 @@ class MetadataControllerTest {
 
     @Test
     void test_should_return_metadata_list_when_get_all() throws Exception {
-        mockMvc.perform(get(String.format("/metadata")))
+        mockMvc.perform(get("/metadata"))
                 .andExpect(status().isOk())
                 .andExpect(content()
                         .contentTypeCompatibleWith(MediaType.APPLICATION_JSON))
